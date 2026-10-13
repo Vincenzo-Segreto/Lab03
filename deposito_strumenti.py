@@ -1,5 +1,5 @@
 from operator import attrgetter
-
+#riprovo a fare push
 
 class Strumento:
     def __init__(self, codice, tipo, marca, anno_acquisto, valore):

@@ -1,4 +1,4 @@
-from deposito_strumenti import DepositoStrumenti
+from deposito_strumenti import DepositoStrumenti  #riprovo a fare push
 from datetime import datetime
 
 def menu():
